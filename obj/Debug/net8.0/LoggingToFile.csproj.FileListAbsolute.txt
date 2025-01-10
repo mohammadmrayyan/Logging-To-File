@@ -1,0 +1,15 @@
+/home/mrayyan/Desktop/C#/LoggingToFile/bin/Debug/net8.0/LoggingToFile
+/home/mrayyan/Desktop/C#/LoggingToFile/bin/Debug/net8.0/LoggingToFile.deps.json
+/home/mrayyan/Desktop/C#/LoggingToFile/bin/Debug/net8.0/LoggingToFile.runtimeconfig.json
+/home/mrayyan/Desktop/C#/LoggingToFile/bin/Debug/net8.0/LoggingToFile.dll
+/home/mrayyan/Desktop/C#/LoggingToFile/bin/Debug/net8.0/LoggingToFile.pdb
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/LoggingToFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/LoggingToFile.AssemblyInfoInputs.cache
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/LoggingToFile.AssemblyInfo.cs
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/LoggingToFile.csproj.CoreCompileInputs.cache
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/LoggingToFile.sourcelink.json
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/LoggingToFile.dll
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/refint/LoggingToFile.dll
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/LoggingToFile.pdb
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/LoggingToFile.genruntimeconfig.cache
+/home/mrayyan/Desktop/C#/LoggingToFile/obj/Debug/net8.0/ref/LoggingToFile.dll

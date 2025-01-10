@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mrayyan/Desktop/C#/LogginToFile/LogginToFile.csproj",
-      "projectName": "LogginToFile",
-      "projectPath": "/home/mrayyan/Desktop/C#/LogginToFile/LogginToFile.csproj",
+      "projectUniqueName": "/home/mrayyan/Desktop/C#/LoggingToFile/LoggingToFile.csproj",
+      "projectName": "LoggingToFile",
+      "projectPath": "/home/mrayyan/Desktop/C#/LoggingToFile/LoggingToFile.csproj",
       "packagesPath": "/home/mrayyan/.nuget/packages/",
-      "outputPath": "/home/mrayyan/Desktop/C#/LogginToFile/obj/",
+      "outputPath": "/home/mrayyan/Desktop/C#/LoggingToFile/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mrayyan/.nuget/NuGet/NuGet.Config"
